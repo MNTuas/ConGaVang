@@ -8,8 +8,6 @@
 
 2. Trần Quốc Bảo -SE162002
 
-3. Võ Duy Khoa - SE171494
-
 ## Purpose :
 
 .ConGaVang is a website that provides the service for booking ticket movie online 
@@ -58,38 +56,10 @@
         .Add,edit,remove movies
 
 
-
-# UI DESIGN:
-
-
-![image](https://github.com/dunghuynh-teaching/prj301-se1714-09/assets/116270047/d8da5209-d492-4a46-ba27-e06b67fe5d18)
-
-
-![image](https://github.com/dunghuynh-teaching/prj301-se1714-09/assets/116270047/bdff8877-b4aa-4a2d-beb0-90b063bc1667)
-
-
-![image](https://github.com/dunghuynh-teaching/prj301-se1714-09/assets/116270047/3f10b108-c6de-417f-86c3-5327b35c1e70)
-
-
-![image](https://github.com/dunghuynh-teaching/prj301-se1714-09/assets/116270047/d040fb0a-4603-49a0-b6fc-8a93dbf8b9c0)
-
-
-![image](https://github.com/dunghuynh-teaching/prj301-se1714-09/assets/116270047/d96b1f20-a078-46d3-8ab7-cd087caf7afa)
-
-
-![image](https://github.com/dunghuynh-teaching/prj301-se1714-09/assets/116270047/1d1fa763-32d3-4d52-a802-6f7bcbf1c3fd)
-
-
-<img width="937" alt="Screenshot 2023-07-19 132858" src="https://github.com/dunghuynh-teaching/prj301-se1714-09/assets/116270047/1bd472a4-4894-492f-847d-e23d94ca40a7">
-
-![image](https://github.com/dunghuynh-teaching/prj301-se1714-09/assets/116270047/c20fc700-dc19-45dd-adbf-ffb88e553703)
-
-![image](https://github.com/dunghuynh-teaching/prj301-se1714-09/assets/116270047/e6a30f32-7399-43e8-ad06-3a90d203e1d9)
-
-
 # DATABASE DIAGRAM
 
-<img width="711" alt="Screenshot 2023-06-26 230403" src="https://github.com/dunghuynh-teaching/prj301-se1714-09/assets/116270047/c70d0cf5-1ef5-48e0-9e79-478cd3b2f9a3">
+![image](https://github.com/MNTuas/ConGaVang/assets/146855099/9ea84596-07aa-437d-8e65-841ccd9f91c1)
+
 
 
 # CONCLUSION
