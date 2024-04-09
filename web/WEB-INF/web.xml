@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>MovieDetailControl</servlet-name>
+        <servlet-class>controller.MovieDetailControl</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>BookingControl</servlet-name>
+        <servlet-class>controller.BookingControl</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>ShowTimeControl</servlet-name>
+        <servlet-class>controller.ShowTimeControl</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>SuperShowTimeControl</servlet-name>
+        <servlet-class>controller.SuperShowTimeControl</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MovieDetailControl</servlet-name>
+        <url-pattern>/moviedetail</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ShowTimeControl</servlet-name>
+        <url-pattern>/showtime</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>SuperShowTimeControl</servlet-name>
+        <url-pattern>/supershowtime</url-pattern>
+    </servlet-mapping>
+   
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>
